@@ -94,7 +94,8 @@ padding-top: 20px;
     display: flex;
     flex-direction: row;
     gap: 20px;
-    padding: 10px 80px;
+    padding: 10px 150px;
+   
 
 }
 .why-web-development-First-content h2{
@@ -165,4 +166,55 @@ padding-top: 20px;
     height: 30px;
     width: 100px;
 }
+
+/*My-Inspiration-full-box content number three start*/
+
+/*My-Inspiration-full-text item Start*/
+.My-Inspiration-full-box{
+   
+    height: 800px;
+    width: 80%;
+    padding-top: 100px;
+    margin: 0 auto;
+
+} 
+.My-Inspiration-full-box h1{
+     text-align: center;
+     font-size: 40px;
+     
+}
+
+.My-Inspiration-full-box p{
+    text-align: center;
+    font-size: 17px;
+    padding: 40px 120px;
+
+}
+/*My-Inspiration-full-text item end*/
+
+/*My-Inspiration-ifreme item start*/
+.ifreme-content-box{
+    height: 400px;
+    width: 80%;
+    padding: 10px 15px;
+    padding-top:  30px;
+    padding-left: 30px;
+    margin: 0 auto;
+    border-radius: 16px;
+    box-sizing: border-box;
+    box-shadow: 1px 1px 1px 1px  rgb(107, 106, 106);
+    
+
+}
+.ifreme-content-box .content{
+    height: 96%;
+    width: 98%;
+    border-radius: 16px;
+    margin:  0 auto;
+    align-items: center;
+    
+}
+
+/*My-Inspiration-ifreme item End*/
+/*My-Inspiration-full-box content number three end*/
 
