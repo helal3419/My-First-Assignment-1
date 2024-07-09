@@ -36,6 +36,7 @@ justify-content: space-between;
     background-size: cover;
     text-align: center;
     padding-bottom: 50px;
+    border: 1px dashed rgb(160, 158, 158);
 }
 
 .first-content-picture{
@@ -63,3 +64,105 @@ padding-top: 20px;
 /*my-first-content I hope to become a Devoloper End*/
 
 /*Why Web Development?  full box start*/
+.why-web-development-full-content{
+    width: 80%;
+    height: 1180px;
+    margin: 0 auto;
+    padding-top: 50px;
+
+}
+/*Why Web Development?  head text start*/
+.why-web-development-full-content h1{
+    text-align: center;
+    font-size: 30px;
+    padding: 10px 15px;
+    font-weight: 800;
+}
+.why-web-development-full-content p{
+    text-align: center;
+    color: rgb(87, 86, 86);
+    align-items: center;
+    padding: 10px 50px;
+    padding-bottom: 100px;
+
+}
+/*Why Web Development?  head text END*/
+
+/*Why Web Development?  three content box*/
+/*first content box start*/
+.why-web-development-First-content{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    padding: 10px 80px;
+
+}
+.why-web-development-First-content h2{
+    font-size: 20px;
+    font-weight: 700;
+    text-align: left;
+}
+.why-web-development-First-content p{
+    font-size: 14px;
+    text-align: left;
+    padding-left: 0;
+    padding-bottom: 15px;
+}
+.why-web-development-First-content button{
+    height: 30px;
+    width: 100px;
+}
+/*first content box end*/
+
+/*second content box start*/
+.why-web-development-Second-content{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    padding: 10px 80px;
+    padding-top: 40px;
+
+}
+.why-web-development-Second-content h2{
+    font-size: 20px;
+    font-weight: 700;
+    text-align: left;
+    padding-top: 30px;
+}
+.why-web-development-Second-content p{
+    font-size: 14px;
+    text-align: left;
+    padding-left: 0;
+    padding-bottom: 15px;
+}
+.why-web-development-Second-content button{
+    height: 30px;
+    width: 100px;
+}
+/*second content box End*/
+
+/*Third content box start*/
+.why-web-development-Third-content{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    padding: 10px 80px;
+    padding-top: 40px;
+
+}
+.why-web-development-Third-content h2{
+    font-size: 20px;
+    font-weight: 700;
+    text-align: left;
+}
+.why-web-development-Third-content p{
+    font-size: 14px;
+    text-align: left;
+    padding-left: 0;
+    padding-bottom: 15px;
+}
+.why-web-development-Third-content button{
+    height: 30px;
+    width: 100px;
+}
+
