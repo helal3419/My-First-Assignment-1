@@ -180,7 +180,7 @@ padding-top: 20px;
 } 
 .My-Inspiration-full-box h1{
      text-align: center;
-     font-size: 40px;
+     font-size: 30px;
      
 }
 
@@ -217,4 +217,92 @@ padding-top: 20px;
 
 /*My-Inspiration-ifreme item End*/
 /*My-Inspiration-full-box content number three end*/
+
+/*My-Current-Target-full-box start*/
+.My-Current-Target-full-box{
+    height: 600px;
+    width: 80%;
+    margin: 0 auto;
+    
+}
+/*My-Current-Target-title section start*/
+.My-Current-Target h1{
+
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 15px;
+}
+.My-Current-Target p{
+    text-align: center;
+    font-size: 17px;
+    padding: 5px 150px;
+    padding-bottom: 30px;
+
+}
+/*My-Current-Target-title section end*/
+
+/*My-Current-Target-three box section start*/
+.My-Current-Target-three-box{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    padding: 50px 100px;
+    
+}
+/*sigle box one*/
+
+.single-box{
+ background-color:  rgba(255, 76, 30, 0.05);  
+    padding: 30px 20px;
+
+}
+
+.single-box h1{
+    text-align: left;
+    font-size: 20px;
+    padding: 20px 0px;
+    
+
+}
+.single-box p{
+    text-align: left;
+}
+
+/*sigle box Two*/
+
+.single-box-two{
+    background-color: rgba(0, 76, 232, 0.05);
+    padding: 30px 20px;
+
+}
+
+.single-box-two h1{
+    text-align: left;
+    font-size: 20px;
+    padding: 20px 0px;
+    
+
+}
+.single-box-two p{
+    text-align: left;
+}
+/*sigle box one*/
+
+.single-box-three{
+  background-color:rgba(255, 223, 0, 0.05) ;  
+    padding: 30px 20px;
+
+}
+
+.single-box-three h1{
+    text-align: left;
+    font-size: 20px;
+    padding: 20px 0px;
+    
+
+}
+.single-box-three p{
+    text-align: left;
+}
+/*My-Current-Target-full-box End*/
 
