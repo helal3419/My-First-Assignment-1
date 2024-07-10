@@ -371,4 +371,10 @@ padding-top: 20px;
 }
 
 
+.icon-content {
+    display: flex;
+    gap: 20px;
+}
 
+
+/*my-next-target-full-content othonal start*/
