@@ -306,3 +306,57 @@ padding-top: 20px;
 }
 /*My-Current-Target-full-box End*/
 
+/*support-content full box start*/
+.support-content{
+   
+    height: 300px;
+    width: 70%;
+    margin: 0 auto;
+    background-image: url(../assets/handshake.jpg);
+    background-position: center;
+    background-position: center;
+    background-size: cover;
+    border-radius: 16px;
+    padding-bottom: 30px;
+    background-blend-mode: overlay;
+    background-color: rgba(0, 0, 0, 0.3);
+    
+
+}
+.support-content h1{
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    padding-top: 50px;
+}
+.support-content p{
+    color: white;
+    font-size: 16px;
+    text-align: center;
+    padding-top: 30px; 
+    padding: 20px 70px;  
+    padding-bottom: 70px;
+}
+.support-content .contact-box{
+    align-items: center;
+    text-align: center;
+    
+    
+}
+.text-box{
+    height: 35px;
+    width: 300px;
+    border-radius: 8px;
+    border: none;
+    padding-left: 10px;
+}
+.submit-button{
+    height: 35px;
+    width: 130px;
+    border-radius: 8px;
+    border: none;
+    font-weight: 800;
+}
+/*support-content full box End*/
+
+
